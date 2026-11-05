@@ -94,7 +94,7 @@ message is for the person who has to touch it next year.
 ### `05` &nbsp;Activity
 
 <p align="center">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Vormaza&hide_border=true&background=0D1117&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=9BA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=21262D">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Vormaza&hide_border=true&background=0D1117&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=9BA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=21262D&cache_seconds=14400">
 </p>
 
 <br>
